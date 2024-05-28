@@ -1,6 +1,6 @@
 # Haskson
 
->Haskson is a Json parser written in Haskell.
+>Haskson is a Json parser written in Haskell with `0` dependencies.
 
 ## Current limitations
 
